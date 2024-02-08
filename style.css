@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  min-height: 100vh;
+  max-width: 600px;
+
+  margin-top: 0 auto;
+  padding: 4%;
+
+  border-left: 3px solid darkgray;
+  border-right: 3px solid darkgray;
+}
