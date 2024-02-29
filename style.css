@@ -13,3 +13,8 @@ body {
   border-left: 3px solid darkgray;
   border-right: 3px solid darkgray;
 }
+
+table th {
+  border: 1px solid gray;
+  padding: 1em;
+}
