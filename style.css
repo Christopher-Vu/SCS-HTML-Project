@@ -14,7 +14,7 @@ body {
   border-right: 3px solid darkgray;
 }
 
-table th {
+th, td {
   border: 1px solid gray;
   padding: 1em;
 }
