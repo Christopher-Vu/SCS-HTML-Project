@@ -18,3 +18,27 @@ th, td {
   border: 1px solid gray;
   padding: 1em;
 }
+
+li {
+  font-size: 20px;
+}
+
+p {
+  font-size: 30px;  
+} 
+
+details {
+  background-color: whitesmoke;
+
+  border: 1px solid black;
+  padding: 5px; 
+
+}
+
+img {
+  background-color: whitesmoke;
+
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
