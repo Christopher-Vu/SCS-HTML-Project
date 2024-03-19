@@ -12,12 +12,18 @@ body {
 
   border-left: 3px solid darkgray;
   border-right: 3px solid darkgray;
-  background: lightpink;
+  background-color: #edf5e1;
 }
 
 th, td {
   border: 1px solid gray;
   padding: 1em;
+}
+
+h1 {
+  background-color: #F7EEDD;
+  color: black;
+  text-align: center;
 }
 
 li {
