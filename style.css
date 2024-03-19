@@ -12,7 +12,7 @@ body {
 
   border-left: 3px solid darkgray;
   border-right: 3px solid darkgray;
-  background-color: #edf5e1;
+  background-color: #EEEEEE;
 }
 
 th, td {
@@ -21,9 +21,10 @@ th, td {
 }
 
 h1 {
-  background-color: #F7EEDD;
-  color: black;
+  background-color: #76ABAE;
+  color: #222831;
   text-align: center;
+  border: 1px solid grey;
 }
 
 li {
@@ -35,17 +36,27 @@ p {
 } 
 
 details {
-  background-color: whitesmoke;
+  background-color: #76ABAE;
 
-  border: 1px solid black;
+  border: 1px solid grey;
   padding: 5px; 
 
 }
 
 img {
-  background-color: whitesmoke;
+  background-color: #76ABAE;
 
   margin: 10px;
   padding: 10px;
-  border: 1px solid black;
+  border: 1px solid grey;
 }
+
+/* CSS lesson 1:
+-> CSS, attributes and styling syntax
+-> font size and border (h1, li, p)
+-> margin and padding (details, img)
+-> background colors (details, img)
+-> variables (all colors)
+-> explain styling from the first lesson
+-> Free time to change styling
+*/
