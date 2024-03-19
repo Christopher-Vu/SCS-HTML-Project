@@ -18,6 +18,9 @@ body {
 th, td {
   border: 1px solid gray;
   padding: 1em;
+
+  background-color: black;
+  color: white;
 }
 
 h1 {
@@ -28,26 +31,26 @@ h1 {
 }
 
 li {
-  font-size: 20px;
+  font-size: 1.5em;
 }
 
 p {
-  font-size: 30px;  
+  font-size: 2em;  
 } 
 
 details {
   background-color: #76ABAE;
 
   border: 1px solid grey;
-  padding: 5px; 
+  padding: 1em; 
 
 }
 
 img {
   background-color: #76ABAE;
 
-  margin: 10px;
-  padding: 10px;
+  margin: 1em;
+  padding: 1em;
   border: 1px solid grey;
 }
 
@@ -55,7 +58,7 @@ img {
 -> CSS, attributes and styling syntax
 -> font size and border (h1, li, p)
 -> margin and padding (details, img)
--> background colors (details, img)
+-> colors (details, img, table)
 -> variables (all colors)
 -> explain styling from the first lesson
 -> Free time to change styling
